@@ -1,9 +1,8 @@
 # ビルド環境
-poetry (venv + vertualenvみたいなやつ)
-
+- poetry (venv + vertualenvみたいなやつ)
 https://cocoatomo.github.io/poetry-ja/basic-usage/
 
-解説
+- 解説
 https://zenn.dev/rihito/articles/1b096b1f695f06
 
 # ビルド情報

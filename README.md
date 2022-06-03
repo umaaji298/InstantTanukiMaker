@@ -1,9 +1,11 @@
+(作成中)
 たぬこら v2.0.1 野良ビルドです。
 
-・トロイの木馬扱いはpyinstallerブートローダー変更で対応
+- トロイの木馬扱いはpyinstallerブートローダー変更で対応
+
 https://gamingpc.one/dev/python-pyinstaller/
 
-・ビルド周りをpoetryで整備
+- ビルド周りをpoetryで整備
 
 ----
 インスタントたぬきメーカー「たぬこら」です。
