@@ -9,6 +9,7 @@ license = "img licence"
 python = "^3.9"
 wxPython = "^4.1.1"
 pywin32 = "^304"
+opencv-python = "^4.5.5"
 
 [tool.poetry.dev-dependencies]
 

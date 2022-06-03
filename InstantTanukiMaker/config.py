@@ -36,7 +36,7 @@ COLLAGE = "加工用素材"
 
 TYPES_IMAGE = [BASE, TRANSPARENT, FACE, BROWS, EYES, MOUTH]
 
-FOLDER_IMAGE = pathlib.Path(sys.prefix + "/Image")
+FOLDER_IMAGE = pathlib.Path(os.getcwd() + "/Image")
 FOLDER_ICON = FOLDER_IMAGE / "Icon"
 FOLDER_BTN = FOLDER_ICON / "Button"
 PATH_ICON = FOLDER_IMAGE / "Icon/Instant.ico"
