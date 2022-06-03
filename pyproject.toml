@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "instanttanukimaker"
+version = "2.0.1"
+description = "tanuki"
+authors = ["umaaji298 <48826557+umaaji298@users.noreply.github.com>"]
+license = "img licence"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+wxPython = "^4.1.1"
+pywin32 = "^304"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
