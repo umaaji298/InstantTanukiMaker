@@ -7,3 +7,5 @@ main.onefile-build/
 main.dist/
 main.cmd
 main.exe
+tools/
+release/
